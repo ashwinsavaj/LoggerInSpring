@@ -4,6 +4,6 @@ WORKDIR /logger
 RUN mvn install
 
 FROM openjdk:8-jdk-alpine
-COPY --from=build /logger/target/OMF-searchService.jar OMF-searchService.jar
+COPY --from=build /logger/target/LoggerInfo.jar LoggerInfo.jar
 EXPOSE 9191
 ENTRYPOINT ["java","-jar","LoggerInfo.jar"]
