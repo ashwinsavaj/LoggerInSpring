@@ -24,3 +24,28 @@
 2019-04-17 09:21:50 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 6.913 seconds (JVM running for 7.979)
 2019-04-17 09:21:50 [restartedMain] ERROR c.logger.SpringBootLoggerApplication - Error message
 2019-04-17 09:21:50 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - Info msg
+2019-04-17 09:47:57 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-17 09:47:58 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - Starting SpringBootLoggerApplication on G1C2ML15525 with PID 23952 (C:\Users\M1050806\Documents\workspace-sts-3.8.4.RELEASE\SpringBootLogger\target\classes started by M1050806 in C:\Users\M1050806\Documents\workspace-sts-3.8.4.RELEASE\SpringBootLogger)
+2019-04-17 09:47:58 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - No active profile set, falling back to default profiles: default
+2019-04-17 09:47:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9191 (http)
+2019-04-17 09:47:58 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-17 09:47:58 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-04-17 09:47:58 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-17 09:47:58 [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 576 ms
+2019-04-17 09:47:58 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-17 09:47:58 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2019-04-17 09:47:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9191 (http) with context path ''
+2019-04-17 09:47:58 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 0.957 seconds (JVM running for 1576.24)
+2019-04-17 09:47:59 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2019-04-17 09:47:59 [restartedMain] ERROR c.logger.SpringBootLoggerApplication - Error message
+2019-04-17 09:47:59 [restartedMain] INFO  c.logger.SpringBootLoggerApplication - Info msg
+2019-04-17 10:18:39 [main] INFO  c.l.SpringBootLoggerApplicationTests - Starting SpringBootLoggerApplicationTests on G1C2ML15525 with PID 17332 (started by M1050806 in C:\Users\M1050806\Documents\workspace-sts-3.8.4.RELEASE\SpringBootLogger)
+2019-04-17 10:18:39 [main] INFO  c.l.SpringBootLoggerApplicationTests - No active profile set, falling back to default profiles: default
+2019-04-17 10:18:43 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-17 10:18:43 [main] INFO  c.l.SpringBootLoggerApplicationTests - Started SpringBootLoggerApplicationTests in 5.372 seconds (JVM running for 7.572)
+2019-04-17 10:18:44 [Thread-3] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-17 11:04:27 [main] INFO  c.l.SpringBootLoggerApplicationTests - Starting SpringBootLoggerApplicationTests on G1C2ML15525 with PID 19904 (started by M1050806 in C:\Users\M1050806\Documents\workspace-sts-3.8.4.RELEASE\SpringBootLogger)
+2019-04-17 11:04:27 [main] INFO  c.l.SpringBootLoggerApplicationTests - No active profile set, falling back to default profiles: default
+2019-04-17 11:04:31 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-17 11:04:32 [main] INFO  c.l.SpringBootLoggerApplicationTests - Started SpringBootLoggerApplicationTests in 6.581 seconds (JVM running for 9.338)
+2019-04-17 11:04:33 [Thread-3] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
